@@ -60,6 +60,17 @@ The Ikpeng language nouns inflect in number and cases.
 
 ---
 
+# src-fst-morphology-affixes-prefixes.lexc.md 
+
+Prefixes
+Prefixes in the Ikpeng language are attatched to the left of other words.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/prefixes.lexc](https://github.com/giellalt/lang-txi/blob/main/src/fst/morphology/affixes/prefixes.lexc)</small>
+
+---
+
 # src-fst-morphology-affixes-propernouns.lexc.md 
 
 Proper noun inflection
@@ -232,17 +243,6 @@ Numerals in the Ikpeng language describe a nuerical quantity.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-txi/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
-
----
-
-# src-fst-morphology-stems-prefixes.lexc.md 
-
-Prefixes
-Prefixes in the Ikpeng language are attatched to the left of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-txi/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 
