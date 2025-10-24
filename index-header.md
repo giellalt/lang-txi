@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-txi%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-txi)](https://github.com/giellalt/lang-txi/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-txi)](https://github.com/giellalt/lang-txi/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-txi/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-txi/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-txi?label=CI)](https://builds.giellalt.org/pipelines/lang-txi/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/ikpe1245)
 
 This page documents the work on the **Ikpeng language model**. 
 
